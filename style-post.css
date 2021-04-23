@@ -1,0 +1,36 @@
+#avatar{
+    width: 200px;
+    height: 150px;
+    clip-path: circle(75px at 50% 50%);
+}
+.title p{
+    color: #535c68;
+    font-size: 18px;
+}
+.search .btn{
+    width: 100px;
+}
+  
+ul{
+    padding: 0;
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 15px;
+}
+ul li a{
+    text-decoration: none;
+}
+.content a{
+    text-decoration: none;
+    color: black;
+}
+.content a:hover{
+    text-decoration: none;
+    color: #82ccdd;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}

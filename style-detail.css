@@ -1,0 +1,5 @@
+#avatar{
+    width: 100px;
+    height: 80px;
+    clip-path: circle(35px at 50% 50%);
+}
